@@ -1,15 +1,15 @@
 [tool.poetry]
-name = "memora-core"
+name = "erdev-core"
 version = "0.1.5"
-description = "Memora is an agent that aims to replicate the human memory for every personalized AI."
-authors = ["ELZAI <founders@elzai.com>"]
+description = "ERDEV is an agent that aims to replicate the human memory for every personalized AI."
+authors = ["ERDEV <AI@ERDEV.INFO>"]
 license = "Apache-2.0"
 readme = "README.md"
-repository = "https://github.com/ELZAI/memora"
-homepage = "https://github.com/ELZAI/memora"
-documentation = "https://elzai.github.io/memora/"
+repository = "https://github.com/ERDEV-SOL/ERDEV"
+homepage = "https://github.com/ERDEV-SOL/ERDEV"
+documentation = "https://github.com/ERDEV-SOL/ERDEV"
 packages = [
-    { include = "memora" }  # Points to the internal package folder
+    { include = "erdev" }  # Points to the internal package folder
 ]
 
 [tool.poetry.dependencies]
