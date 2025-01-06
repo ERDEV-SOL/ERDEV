@@ -1,6 +1,5 @@
-# Contributing to Memora
-
-We welcome all contributions to Memora! No contribution is too small, even fixing typos. We appreciate your efforts to improve the project.
+# Contributing to ERDEV
+We welcome all contributions to ERDEV! No contribution is too small, even fixing typos. We appreciate your efforts to improve the project.
 
 ## Guidelines
 
@@ -37,4 +36,4 @@ We welcome all contributions to Memora! No contribution is too small, even fixin
 4. **Write tests** for your changes.
 5. **Submit a pull request** for review.
 
-We are excited to see your contributions and will be updating the contribution guidelines as the project evolves. Thank you for helping us improve Memora!
+We are excited to see your contributions and will be updating the contribution guidelines as the project evolves. Thank you for helping us improve ERDEV!
