@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/ERDEV-SOL/ERDEV/docs/pictures/Unlimited-2.png" width="800"/>
+  <img decoding="async" src="docs/pictures/Unlimited-2.png" width="800"/>
 </div>
 # Erdev AI Trading Script
 
