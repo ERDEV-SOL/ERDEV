@@ -1,9 +1,9 @@
-repo_url: https://github.com/ELZAI/memora/
-site_author: ELZAI
+repo_url: https://github.com/ERDEV-SOL/ERDEV/
+site_author: erdev
 
-site_name: Memora
-site_description: Memora is an agent that aims to replicate the human memory for every personalized AI.
-site_url: https://elzai.github.io/memora/
+site_name: Erdev
+site_description: ERDEV is an agent that aims to replicate the human memory for every personalized AI.
+site_url: https://github.com/ERDEV-SOL/ERDEV
 
 theme:
   name: material
@@ -134,12 +134,7 @@ nav:
   - Change Log: changelog.md
 
 extra:
-  social:
-    - icon: fontawesome/solid/globe
-      link: https://www.elzai.com
 
     - icon: fontawesome/brands/github
-      link: https://github.com/ELZAI/memora/
+      link: https://github.com/ERDEV-SOL/ERDEV
       
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/80737492/
