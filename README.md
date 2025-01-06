@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img decoding="async" src="docs/pictures/Unlimited-2.png" width="800"/>
 </div>
+
 # Erdev AI Trading Script
 
 This Python script is designed to automate the process of buying Solana (SOL) tokens based on AI recommendations. It uses machine learning to predict which tokens are likely to be profitable, allowing for automated fast transactions on the Solana blockchain. The script also provides an optimized transaction flow to make the purchase as quick as possible.
